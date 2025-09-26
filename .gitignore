@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs & cache
+*.log
+*.pot
+*.pyc
+*.pkl
+*.pickle
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results / output
+results/
+runs/
+outputs/
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# Env variables
+.env
+*.json
